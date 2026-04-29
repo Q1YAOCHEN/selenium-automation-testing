@@ -1,0 +1,13 @@
+.DS_Store
+ChromeTestProfile/
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Maven build output
+target/
+
+test-data/
